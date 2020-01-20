@@ -1,0 +1,1 @@
+CREATE PROCEDURE selectdetails() BEGIN SELECT * FROM tabela1; END
